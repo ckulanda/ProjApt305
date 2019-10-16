@@ -1,0 +1,55 @@
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+  font-family: "Bebas NeueRegular", sans-serif;
+  font-size: 14px;
+  background:url("images/houses.png");
+  background-attachment: fixed;
+    background-repeat:repeat-x;
+  background-position: 50% -10%; 
+  background-size: 650px 550px;
+
+
+}
+h2 { 
+   position: absolute; 
+   top: 400px; 
+   left: 750px; 
+   width: 100%; 
+}
+
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+  color:#2F4F4F;
+}
+.navBarWrapper {
+  position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.left {
+    text-align: left;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 5px;
+    color:#2F4F4F;
+     list-style: none;
+}
+.bar {
+  height: 8.02%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  backgroundColor:#000000;
+}
+.bar li {
+    display: inline-block;
+}
+.right {
+  text-align:right;
+  font-size: 15px;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name = "author" content="Camille Kulanda">
+<meta name = "author" content="Jordan Hubaishy">
+<meta name = "author" content="Colton Dever">
+<title>CS305 Proj</title>
+<link rel="stylesheet" href="source.css">
+<body>
+
+<div class="navBarWrapper">
+  <div class="top bar">
+    <ul class="left">
+      <li class="title">Our website</li>
+    </ul>
+    <ul class="right">
+      <li class="buttons"> <a href="login.html">Make A Review</a></li>
+      <li class="buttons"> <a href="login.html">Add a Listing</a></li>
+      <li class="buttons"> <a href="login.html">Apartments A</a></li>
+    </ul>
+  </div>
+</div>
+</<div class="welcomeScreening">
+    <h2>Enter your location to find units nearby
+    </h2>
+  </div>
+
+  </body>
+  </html>
